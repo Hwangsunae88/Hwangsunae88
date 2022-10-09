@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <br/><br/>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
+	<br>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+	
 </div>
 <br>
 <div align=center>
@@ -53,14 +54,13 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-<br>
 
 <div align=center>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangsunae88&layout=compact">
+	<br>
+	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=Hwangsunae88&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Hwangsunae88)
-<img src="https://github-readme-stats.vercel.app/api?username=Hwangsunae88&show_icons=true">
 </div>
 
