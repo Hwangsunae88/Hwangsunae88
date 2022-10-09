@@ -23,7 +23,6 @@ Here are some ideas to get you started:
  <p>I'm a Web Developer</p>
 </div> 
 <br/><br/>
-
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -54,14 +53,14 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-	<br>
-</div>
+<br>
+
 <div align=center>
-	<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangsunae88&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Hwangsunae88&show_icons=true">
 
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Hwangsunae88)
 <img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
-
+</div>
 
